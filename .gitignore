@@ -5,9 +5,13 @@
 
 # Log file
 *.log
+*/*.out
 
 # BlueJ files
 *.ctxt
+
+# Report
+*/*.html
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -24,4 +28,4 @@
 hs_err_pid*
 */target/
 */test-output/
-*/src/test/resources/screenshots/
+*/src/test/resources/screenshots/*
