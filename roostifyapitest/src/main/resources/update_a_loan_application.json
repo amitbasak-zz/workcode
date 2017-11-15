@@ -1,0 +1,9 @@
+{
+
+      "id": "3707295962017979",
+	  "reference_id": "3345322",
+	  "application_type": "purchase",
+	  "amortization_term": "30",
+	  "loan_amount": 200000,
+	  "down_payment": 40000
+}

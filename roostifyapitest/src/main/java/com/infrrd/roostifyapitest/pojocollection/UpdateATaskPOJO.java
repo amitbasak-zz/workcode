@@ -5,6 +5,7 @@ public class UpdateATaskPOJO {
 	public String completed_at;
 	public String description;
 	public String instructions;
+	
 	public String getCompleted_at() {
 		return completed_at;
 	}

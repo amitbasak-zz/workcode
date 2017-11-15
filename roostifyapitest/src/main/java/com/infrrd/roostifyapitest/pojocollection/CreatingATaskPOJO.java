@@ -15,6 +15,7 @@ public class CreatingATaskPOJO {
 	public String priority;
 	public String instructions;
 	public String extension_type;
+	
 	public String getLoan_application_id() {
 		return loan_application_id;
 	}
